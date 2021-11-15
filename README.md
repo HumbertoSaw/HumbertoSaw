@@ -1,14 +1,12 @@
 
- <img align="right" src="https://static.wikia.nocookie.net/undertale/images/2/20/Annoying_Dog.gif/revision/latest?cb=20151211040233&path-prefix=es" alt="" width="80px"      height="80px"> <strong align="center"> <h1 align="center">👋 Hi, I’m Humberto Sanchez Cruz, Aka. Umbersaw. </h1> </strong>
+ <img align="right" src="https://static.wikia.nocookie.net/undertale/images/2/20/Annoying_Dog.gif/revision/latest?cb=20151211040233&path-prefix=es" alt="" width="80px"      height="80px"> <strong align="center"> 👋 Hi, I’m Humberto Sanchez Cruz, Aka. Umbersaw. </strong>
 
  <p>
   I'm a computer systems <strong>student</strong>, I am passionate about digital art and learning. Currently im working on Lintori ⛩️.
  </p>
 <div align="center">
  <span>
-
- <img align="center" src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif" alt="" width="500px" >
-
+ <img align="center" src="https://i.pinimg.com/originals/25/cd/76/25cd76052287485071c29c0fa349572d.gif" alt="" width="250" >
  </span>
  <h2 align"center"> The current proyect is Digital Cove! 🐚</h2>
 <div>
