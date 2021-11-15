@@ -6,7 +6,7 @@
  </p>
 <div align="center">
  <span>
- <img align="center" src="https://i.pinimg.com/originals/25/cd/76/25cd76052287485071c29c0fa349572d.gif" alt="" width="250" >
+ <img align="center" src="https://studio.code.org/v3/assets/vuNo7tyykuCe9jPv2rZeq9YHW91p50BUj5LNgsDJF4U/Boss_BlueBaby.gif" alt="" width="250" >
  </span>
  <h2 align"center"> The current proyect is Digital Cove! 🐚</h2>
 <div>
