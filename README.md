@@ -6,9 +6,9 @@
  </p>
 <div align="center">
  <span>
-🥪
- <img align="center" src="https://cdn.dribbble.com/users/322079/screenshots/6485620/petrick_dribbble.gif" alt="" width="500px" >
-🍤
+
+ <img align="center" src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif" alt="" width="500px" >
+
  </span>
  <h2 align"center"> The current proyect is Digital Cove! 🐚</h2>
 <div>
