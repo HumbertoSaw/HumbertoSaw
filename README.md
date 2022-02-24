@@ -2,7 +2,7 @@
  <img align="right" src="https://static.wikia.nocookie.net/undertale/images/2/20/Annoying_Dog.gif/revision/latest?cb=20151211040233&path-prefix=es" alt="" width="80px"      height="80px"> <strong align="center"> 👋 Hi, I’m Humberto Sanchez Cruz, Aka. Umbersaw. </strong>
 
  <p>
-  I'm a computer systems <strong>student</strong>, I am passionate about digital art and learning. Currently im Innovation Center 🧑🏾‍🚀.
+  I'm a computer systems <strong>student</strong>, I am passionate about digital art and learning. Currently working in the Innovation Center 🧑🏾‍🚀.
  </p>
 <div align="center">
  <span>
