@@ -8,7 +8,7 @@
  <span>
  <img align="center" src="https://studio.code.org/v3/assets/vuNo7tyykuCe9jPv2rZeq9YHW91p50BUj5LNgsDJF4U/Boss_BlueBaby.gif" alt="" width="250" >
  </span>
- <h2 align"center"> Currently working at Plenumsoft 📍 Mérida, Yucatán ✨</h2>
+ <h2 align"center"> Currently working at SEQ 📍 Chetumal, Quintana Roo ✨</h2>
 <div>
 <!---
 HumbertoSaw/HumbertoSaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
